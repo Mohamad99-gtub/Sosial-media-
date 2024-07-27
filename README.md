@@ -247,23 +247,32 @@ Angka 0, sering digunakan dalam perhitungan dan perbandingan.
 ---
 ## Sosial Media Saya
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <a href="https://www.instagram.com/jeey_store01" target="_blank" style="padding: 10px; border: 1px solid #ddd; border-radius: 5px; text-align: center; width: 100px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30"/><br>Instagram
+<p align="center">
+  <a href="https://www.instagram.com/jeey_store01" target="_blank">
+    <img src="https://img.shields.io/badge/Follow on Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://wa.me/6283122028438" target="_blank" style="padding: 10px; border: 1px solid #ddd; border-radius: 5px; text-align: center; width: 100px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="30" height="30"/><br>WhatsApp
+  <a href="https://wa.me/6283122028438" target="_blank">
+    <img src="https://img.shields.io/badge/Connect on WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
-  <a href="https://t.me/Jeeystore3" target="_blank" style="padding: 10px; border: 1px solid #ddd; border-radius: 5px; text-align: center; width: 100px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="30" height="30"/><br>Telegram
+  <a href="https://t.me/Jeeystore3" target="_blank">
+    <img src="https://img.shields.io/badge/Join Telegram Group-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://github.com/Mohamad99-gtub/Sosial-media-" target="_blank" style="padding: 10px; border: 1px solid #ddd; border-radius: 5px; text-align: center; width: 100px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="30" height="30"/><br>GitHub
+  <a href="https://github.com/Mohamad99-gtub/Sosial-media-" target="_blank">
+    <img src="https://img.shields.io/badge/Follow on GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://youtube.com/@jeey_store" target="_blank" style="padding: 10px; border: 1px solid #ddd; border-radius: 5px; text-align: center; width: 100px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube" width="30" height="30"/><br>YouTube
+  <a href="https://youtube.com/@jeey_store" target="_blank">
+    <img src="https://img.shields.io/badge/Subscribe on YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </p>
 
-# Keep Supporting
+<p align="center">
+  <a href="https://github.com/Mohamad99-gtub/Sosial-media-/followers"><img title="Followers" src="https://img.shields.io/github/followers/Mohamad99-gtub?color=red&style=flat-square"></a>
+  <a href="https://github.com/Mohamad99-gtub/Sosial-media-/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Mohamad99-gtub/Sosial-media-?color=blue&style=flat-square"></a>
+  <a href="https://github.com/Mohamad99-gtub/Sosial-media-/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Mohamad99-gtub/Sosial-media-?color=red&style=flat-square"></a>
+  <a href="https://github.com/Mohamad99-gtub/Sosial-media-/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Mohamad99-gtub/Sosial-media-?label=Watchers&color=blue&style=flat-square"></a>
+  <a href="https://github.com/Mohamad99-gtub/Sosial-media-"><img title="Open Source" src="https://img.shields.io/badge/Author-Mohamad Abubakar-red?v=103"></a>
+  <a href="https://github.com/Mohamad99-gtub/Sosial-media-/"><img title="Size" src="https://img.shields.io/github/repo-size/Mohamad99-gtub/Sosial-media-?style=flat-square&color=green"></a>
+  <a href="https://github.com/Mohamad99-gtub/Sosial-media-/graphs/commit-activity"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
+</p>
 
+# Keep Supporting
