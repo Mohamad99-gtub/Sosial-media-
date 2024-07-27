@@ -1,3 +1,34 @@
+
+<p align="center">
+  <a href="https://www.instagram.com/jeey_store01" target="_blank">
+    <img src="https://img.shields.io/badge/Follow on Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://wa.me/6283122028438" target="_blank">
+    <img src="https://img.shields.io/badge/Connect on WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://t.me/Jeeystore3" target="_blank">
+    <img src="https://img.shields.io/badge/Join Telegram Group-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://github.com/Mohamad99-gtub/Sosial-media-" target="_blank">
+    <img src="https://img.shields.io/badge/Follow on GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://youtube.com/@jeey_store" target="_blank">
+    <img src="https://img.shields.io/badge/Subscribe on YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Mohamad99-gtub/Sosial-media-/followers"><img title="Followers" src="https://img.shields.io/github/followers/Mohamad99-gtub?color=red&style=flat-square"></a>
+  <a href="https://github.com/Mohamad99-gtub/Sosial-media-/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Mohamad99-gtub/Sosial-media-?color=blue&style=flat-square"></a>
+  <a href="https://github.com/Mohamad99-gtub/Sosial-media-/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Mohamad99-gtub/Sosial-media-?color=red&style=flat-square"></a>
+  <a href="https://github.com/Mohamad99-gtub/Sosial-media-/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Mohamad99-gtub/Sosial-media-?label=Watchers&color=blue&style=flat-square"></a>
+  <a href="https://github.com/Mohamad99-gtub/Sosial-media-"><img title="Open Source" src="https://img.shields.io/badge/Author-Mohamad Abubakar-red?v=103"></a>
+  <a href="https://github.com/Mohamad99-gtub/Sosial-media-/"><img title="Size" src="https://img.shields.io/github/repo-size/Mohamad99-gtub/Sosial-media-?style=flat-square&color=green"></a>
+  <a href="https://github.com/Mohamad99-gtub/Sosial-media-/graphs/commit-activity"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
+</p>
+
+# Keep Supporting
+-----
 # Belajar HTML, CSS, dan JavaScript untuk Perbankan
 
 ## Pendahuluan
@@ -244,7 +275,7 @@ Kata kunci dalam generator functions untuk mengembalikan nilai satu per satu.
 #### Z - `zero`
 Angka 0, sering digunakan dalam perhitungan dan perbandingan.
 
----
+-----
 ## Sosial Media Saya
 
 <p align="center">
