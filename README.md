@@ -1,7 +1,7 @@
 ![IMG_20240715_194829](https://github.com/user-attachments/assets/d9d66313-8782-4db7-a16a-fdc9b76a929b)
 
 
-# Keep Supporting
+# JEEY STORE
 <p align="center">
   <a href="https://www.instagram.com/jeey_store01" target="_blank">
     <img src="https://img.shields.io/badge/Follow on Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
